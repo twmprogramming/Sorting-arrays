@@ -1,0 +1,28 @@
+* {
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+
+#output{
+    width: 100%;
+    float: left;
+}
+ul{
+    list-style: none;
+}
+#unsorted-arr {
+    width: 45%;
+    float: left;
+    margin-left: 5%;
+}
+
+#sorted-arr {
+    width: 45%;
+    float: left;
+}
+
+form{
+    width:90%;
+    margin: 5% 0 5% 5%;
+}
